@@ -5,6 +5,7 @@ theme = 'hugo-theme-hello-friend-ng'
 
 [markup.goldmark.renderer]
 unsafe = true
+params.assets.disableFingerprinting = true
 
 archetypeDir = "archetypes"
 contentDir   = "content"
