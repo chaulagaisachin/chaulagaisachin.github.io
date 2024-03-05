@@ -1,0 +1,138 @@
+baseURL = 'https://sachinchaulagai.com.np'
+languageCode = 'en-us'
+title = 'Sachin Chaulagai'
+theme = 'hugo-theme-hello-friend-ng'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "docs"
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false  
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+  
+  # Subtitle for home
+  homeSubtitle = "| Security Researcher | Cyber Security Enthusiast | Cloud Security | DevSecOps | Purple Team |"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableThemeToggle = true
+  enableSharingButtons = true
+  justifyContent = true
+  image = "/images/frontimage.jpg"
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = ["static/images/frontimage.jpg"]
+[[param.potrait]]
+  path = "static/images/frontimage.jpg"
+[taxonomies]
+    category = "categories"
+    tag      = "tags"
+    series   = "series"
+[languages]
+  [languages.en]
+    title = "Sachin Chaulagai"
+    subtitle = "Security Expert"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "SiteUnderConstruction"
+      logoHomeLink = "/"
+      logoClass = "site-logo"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+      
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "whoami"
+    pre = ""
+    post = ""
+    name = "$whoami"
+    url = "/whoami/"
+    title = "My Resume"
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    pre = ""
+    post = ""
+    name = "Blogs"
+    url = "/posts/"
+    title = "Blogs"
+    weight = 5
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = "Categories"
+    weight = 3
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = "Tags"
+    weight = 4
+  [[menu.main]]
+    identifier = "Projects"
+    pre = ""
+    post = ""
+    name = "Projects"
+    url = "/projects/"
+    title = "Projects"
+    weight = 2
+  
+  [[params.social]]
+    name = "facebook"
+    url = "https://www.facebook.com/sachinchaulagai4/ "
+    weight = 40
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/chaulagaisachin"
+    weight = 40
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/ChaulagaiSachin"
+    weight = 40
+  [[params.social]]
+    name = "youtube"
+    url = "https://www.youtube.com/channel/UC2rNB8yz4l3f0FfNArnVl1A"
+    weight = 40
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/__sachinchaulagai_/"
+    weight = 40
+  [[params.social]]
+    name = "medium"
+    url = "https://medium.com/@chaulagaisachin5"
+    weight = 40
+  [[params.social]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/chaulagaisachin"
+    weight = 40
+    
