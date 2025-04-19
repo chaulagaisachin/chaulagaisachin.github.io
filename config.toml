@@ -121,6 +121,13 @@ disableHugoGeneratorInject = false
   title = "Blogs"
   weight = 5
 
+[[menu.main]]
+  identifier = "admin"
+  name = "Admin"
+  url = "/admin/"
+  title = "Admin Panel"
+  weight = 6
+
 # --------------------------------------
 # Social Links
 # --------------------------------------
