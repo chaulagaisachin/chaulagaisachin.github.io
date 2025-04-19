@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>server on Sachin Chaulagai</title>
-    <link>https://sachinchaulagai.com.np/tags/server/</link>
-    <description>Recent content in server on Sachin Chaulagai</description>
+    <title>Server on Sachin Chaulagai</title>
+    <link>http://localhost:1313/tags/server/</link>
+    <description>Recent content in Server on Sachin Chaulagai</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 02 Apr 2023 10:16:10 +0545</lastBuildDate><atom:link href="https://sachinchaulagai.com.np/tags/server/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 10:16:10 +0545</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/server/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What&#39;s IaC (Infrastructure as a Code) ???</title>
-      <link>https://sachinchaulagai.com.np/posts/iac/</link>
+      <link>http://localhost:1313/posts/iac/</link>
       <pubDate>Sun, 02 Apr 2023 10:16:10 +0545</pubDate>
-      
-      <guid>https://sachinchaulagai.com.np/posts/iac/</guid>
+      <guid>http://localhost:1313/posts/iac/</guid>
       <description>What&amp;rsquo;s IaC (Infrastructure as a Code) ??? Introduction Have you ever setup a virtual machine? You might know about using an ISO file to load in Oracle Virtual Box, going through all the steps on by one to install the ISO on the Virtual Hard-Disk and that&amp;rsquo;s a lot of time being wasted. Well, to save some time you might have backed up you VM (of course Virtual Machine) and used OVA to load your VM.</description>
     </item>
-    
   </channel>
 </rss>

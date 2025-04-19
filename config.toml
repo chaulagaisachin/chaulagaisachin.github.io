@@ -1,53 +1,74 @@
-baseURL = 'https://sachinchaulagai.com.np'
-languageCode = 'en-us'
-title = 'Sachin Chaulagai'
-theme = 'hugo-theme-hello-friend-ng'
+# --------------------------------------
+# Basic Site Config
+# --------------------------------------
+baseURL = "https://sachinchaulagai.com.np"
+languageCode = "en-us"
+title = "Sachin Chaulagai"
+theme = "hugo-theme-hello-friend-ng"
 
+# --------------------------------------
+# Markup (for allowing raw HTML in markdown)
+# --------------------------------------
 [markup.goldmark.renderer]
 unsafe = true
 
+# --------------------------------------
+# Directory Settings
+# --------------------------------------
 archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
 publishDir   = "docs"
 
+# --------------------------------------
+# Site Behavior Toggles
+# --------------------------------------
 enableRobotsTXT = true
-enableGitInfo   = false
-enableEmoji     = true
+enableGitInfo = false
+enableEmoji = true
 enableMissingTranslationPlaceholders = false
-disableRSS     = false
+disableRSS = false
 disableSitemap = false
-disable404     = false
+disable404 = false
 disableHugoGeneratorInject = false  
 
+# --------------------------------------
+# Site Parameters (used by your theme)
+# --------------------------------------
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
+  dateform = "Jan 2, 2006"
+  dateformShort = "Jan 2"
+  dateformNum = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
-  
-  # Subtitle for home
+
   homeSubtitle = "| Security Researcher | Cyber Security Enthusiast | Cloud Security | DevSecOps | Purple Team |"
-
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
-
-  # Enable sharing buttons, if you like
   enableThemeToggle = true
   enableSharingButtons = true
   justifyContent = true
+  
+  # Default image for Open Graph (social sharing)
   image = "/images/frontimage.jpg"
-  # Metadata mostly used in document's head
   description = "My new homepage or blog"
   keywords = "homepage, blog"
   images = ["static/images/frontimage.jpg"]
+
+# Portrait image config (custom param used in your theme)
 [[param.potrait]]
   path = "static/images/frontimage.jpg"
+
+# --------------------------------------
+# Taxonomies (Categories, Tags, Series)
+# --------------------------------------
 [taxonomies]
-    category = "categories"
-    tag      = "tags"
-    series   = "series"
+  category = "categories"
+  tag      = "tags"
+  series   = "series"
+
+# --------------------------------------
+# Multilingual Support (English Only here)
+# --------------------------------------
 [languages]
   [languages.en]
     title = "Sachin Chaulagai"
@@ -60,79 +81,80 @@ disableHugoGeneratorInject = false
       logoText = "SiteUnderConstruction"
       logoHomeLink = "/"
       logoClass = "site-logo"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
-      
-  # And you can even create generic menu
-  [[menu.main]]
-    identifier = "whoami"
-    pre = ""
-    post = ""
-    name = "$whoami"
-    url = "/whoami/"
-    title = "My Resume"
-    weight = 1
-  [[menu.main]]
-    identifier = "posts"
-    pre = ""
-    post = ""
-    name = "Blogs"
-    url = "/posts/"
-    title = "Blogs"
-    weight = 5
-  [[menu.main]]
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = "Categories"
-    weight = 3
-  [[menu.main]]
-    identifier = "tags"
-    pre = ""
-    post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = "Tags"
-    weight = 4
-  [[menu.main]]
-    identifier = "Projects"
-    pre = ""
-    post = ""
-    name = "Projects"
-    url = "/projects/"
-    title = "Projects"
-    weight = 2
-  
-  [[params.social]]
-    name = "facebook"
-    url = "https://www.facebook.com/sachinchaulagai4/ "
-    weight = 40
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/chaulagaisachin"
-    weight = 40
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/ChaulagaiSachin"
-    weight = 40
-  [[params.social]]
-    name = "youtube"
-    url = "https://www.youtube.com/channel/UC2rNB8yz4l3f0FfNArnVl1A"
-    weight = 40
-  [[params.social]]
-    name = "instagram"
-    url = "https://www.instagram.com/__sachinchaulagai_/"
-    weight = 40
-  [[params.social]]
-    name = "medium"
-    url = "https://medium.com/@chaulagaisachin5"
-    weight = 40
-  [[params.social]]
-    name = "linkedin"
-    url = "https://linkedin.com/in/chaulagaisachin"
-    weight = 40
-    
+      # (Alternatively, you can provide a logo image here by path)
+
+# --------------------------------------
+# Menus
+# --------------------------------------
+[[menu.main]]
+  identifier = "whoami"
+  name = "$whoami"
+  url = "/whoami/"
+  title = "My Resume"
+  weight = 1
+
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects/"
+  title = "Projects"
+  weight = 2
+
+[[menu.main]]
+  identifier = "categories"
+  name = "Categories"
+  url = "/categories/"
+  title = "Categories"
+  weight = 3
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  title = "Tags"
+  weight = 4
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Blogs"
+  url = "/posts/"
+  title = "Blogs"
+  weight = 5
+
+# --------------------------------------
+# Social Links
+# --------------------------------------
+[[params.social]]
+  name = "facebook"
+  url = "https://www.facebook.com/sachinchaulagai4/"
+  weight = 40
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/chaulagaisachin"
+  weight = 40
+
+[[params.social]]
+  name = "twitter"
+  url = "https://twitter.com/ChaulagaiSachin"
+  weight = 40
+
+[[params.social]]
+  name = "youtube"
+  url = "https://www.youtube.com/channel/UC2rNB8yz4l3f0FfNArnVl1A"
+  weight = 40
+
+[[params.social]]
+  name = "instagram"
+  url = "https://www.instagram.com/__sachinchaulagai_/"
+  weight = 40
+
+[[params.social]]
+  name = "medium"
+  url = "https://medium.com/@chaulagaisachin5"
+  weight = 40
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/chaulagaisachin"
+  weight = 40
