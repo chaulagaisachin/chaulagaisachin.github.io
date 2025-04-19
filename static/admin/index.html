@@ -11,33 +11,3 @@
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   </body>
 </html>
-  <script>
-    // Initialize Decap CMS
-    CMS.init({
-      config: {
-        backend: {
-          name: "git-gateway",
-          branch: "main", // The branch to edit
-        },
-        media_folder: "static/uploads", // Media files will be stored in the repo under static/uploads
-        public_folder: "/uploads", // The path where the media files will be served from
-        collections: [
-          {
-            name: "blog",
-            label: "Blog",
-            folder: "content/blog",
-            create: true,
-            slug: "{{year}}-{{month}}-{{day}}-{{slug}}",
-            fields: [
-              { label: "Title", name: "title", widget: "string" },
-              { label: "Date", name: "date", widget: "datetime" },
-              { label: "Body", name: "body", widget: "markdown" },
-            ],
-          },
-        ],
-      },
-    });
-  </script>
-  <script>
-    // Load the Decap CMS UI
-    CMS.init();

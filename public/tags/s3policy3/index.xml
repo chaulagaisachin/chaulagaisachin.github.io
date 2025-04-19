@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S3policy3 on Sachin Chaulagai</title>
-    <link>http://localhost:1313/tags/s3policy3/</link>
+    <link>https://sachinchaulagai.com.np/tags/s3policy3/</link>
     <description>Recent content in S3policy3 on Sachin Chaulagai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 01 Mar 2024 14:33:02 +1100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/s3policy3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sachinchaulagai.com.np/tags/s3policy3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beginner friendly Hand-on Project on AWS S3 — Part 1</title>
-      <link>http://localhost:1313/posts/s3-p1/</link>
+      <link>https://sachinchaulagai.com.np/posts/s3-p1/</link>
       <pubDate>Fri, 01 Mar 2024 14:33:02 +1100</pubDate>
-      <guid>http://localhost:1313/posts/s3-p1/</guid>
+      <guid>https://sachinchaulagai.com.np/posts/s3-p1/</guid>
       <description>I want to help beginner gain some confident on their journey in cloud and tech. I will be posting tutorials and lessons on cloud tech and security such that its more understandable and have not burden but fun and easy to comprehend. Let’s start with a service provided by AWS, called Amazon S3.&#xA;You ever heard about S3? No! Ever used Google Drive to store your files online? Yes! It’s a primary example of how object storage works.</description>
     </item>
   </channel>
