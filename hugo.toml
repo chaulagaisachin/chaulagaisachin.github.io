@@ -1,4 +1,45 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sachinchaulagai.com.np/'
 languageCode = 'en-us'
 title = 'Sachin Chaulagai'
 theme = 'blowfish'
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blogs"
+    name = "Blogs"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About Me"
+    url = "/about/"
+    weight = 4
+
+
+[params.author]
+name = "Sachin Chaulagai"
+# image = "img/author.jpg" # Optional: set your profile image path in assets/
+# headline = "Your headline here" # Optional: short description
+# bio = "A little bit about me" # Optional: bio for article footers
+links = [
+  { facebook = "https://www.facebook.com/chaulagaisachin/" },
+  { github = "https://github.com/chaulagaisachin" },
+  { twitter = "https://twitter.com/ChaulagaiSachin" },
+  { youtube = "https://www.youtube.com/channel/UC2rNB8yz4l3f0FfNArnVl1A" },
+  { instagram = "https://www.instagram.com/__sachinchaulagai_/" },
+  { medium = "https://medium.com/@chaulagaisachin5" },
+  { linkedin = "https://linkedin.com/in/chaulagaisachin" }
