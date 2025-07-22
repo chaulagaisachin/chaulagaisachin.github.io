@@ -3,11 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:43287/about-me/</loc>
+    <loc>http://localhost:1313/about-me/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:43287/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/aws-s3-beginner-hands-on-part-1/</loc>
+    <lastmod>2024-03-01T14:33:02+11:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-03-01T14:33:02+11:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/whats-iac/</loc>
+    <lastmod>2023-04-02T10:16:10+05:45</lastmod>
   </url>
 </urlset>
