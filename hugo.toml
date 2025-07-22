@@ -29,7 +29,7 @@ theme = 'blowfish'
   [[menu.main]]
     identifier = "about"
     name = "About Me"
-    url = "/about/"
+    url = "/about-me/"
     weight = 4
 
 
