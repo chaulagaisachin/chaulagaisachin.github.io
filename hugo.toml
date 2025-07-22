@@ -2,6 +2,9 @@ baseURL = 'https://sachinchaulagai.com.np/'
 languageCode = 'en-us'
 title = 'Sachin Chaulagai'
 theme = 'blowfish'
+[params.advertisement]
+  adsense_id = "ca-pub-2500038021915641"
+
 
 [menu]
 
