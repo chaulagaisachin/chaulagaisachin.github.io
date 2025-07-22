@@ -33,6 +33,11 @@ theme = 'blowfish'
     weight = 4
 
 
+[params.homepage]
+  layout = "page" # Use "page" layout to stack recent articles
+  showRecent = true # Enable recent articles on homepage
+  showRecentItems = 10 # Number of recent articles to show (adjust as needed)
+
 [params.author]
 name = "Sachin Chaulagai"
 # image = "img/author.jpg" # Optional: set your profile image path in assets/

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sachin Chaulagai</title>
-    <link>https://sachinchaulagai.com.np/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Sachin Chaulagai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 Sachin Chaulagai</copyright>
-    <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sachinchaulagai.com.np/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Me</title>
-      <link>https://sachinchaulagai.com.np/about-me/</link>
+      <link>http://localhost:1313/about-me/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://sachinchaulagai.com.np/about-me/</guid>
+      <guid>http://localhost:1313/about-me/</guid>
       <description>👋 Hi, I&amp;rsquo;m Sachin Chaulagai # DevOps &amp;amp; Cloud Security Engineer passionate about automating infrastructure, securing cloud environments, and building reliable observability systems.
 💼 Professional Experience # Organization Designation Duration ThreatDefence DevOps Engineer April 2025 – Present DigiTech Nepal Cloud Security Researcher Dec 2022 – Mar 2025 AwakeTech Solutions DevSecOps Engineer (Contract) 2022 Softwarica College Teaching Assistant Aug 2020 – Mar 2022 TechKraft Inc. Cloud Developer Jan 2021 – Sept 2021 Eminence Ways Cyber Security Intern Mar 2020 – Jul 2020 🎓 Academic Background # Coventry University</description>
       
@@ -22,10 +22,10 @@
     
     <item>
       <title>Beginner friendly Hand-on Project on AWS S3 — Part 1</title>
-      <link>https://sachinchaulagai.com.np/posts/aws-s3-beginner-hands-on-part-1/</link>
+      <link>http://localhost:1313/posts/aws-s3-beginner-hands-on-part-1/</link>
       <pubDate>Fri, 01 Mar 2024 14:33:02 +1100</pubDate>
       
-      <guid>https://sachinchaulagai.com.np/posts/aws-s3-beginner-hands-on-part-1/</guid>
+      <guid>http://localhost:1313/posts/aws-s3-beginner-hands-on-part-1/</guid>
       <description>I want to help beginner gain some confident on their journey in cloud and tech. I will be posting tutorials and lessons on cloud tech and security such that its more understandable and have not burden but fun and easy to comprehend. Let’s start with a service provided by AWS, called Amazon S3.
 You ever heard about S3? No! Ever used Google Drive to store your files online? Yes! It’s a primary example of how object storage works.</description>
       
@@ -33,10 +33,10 @@ You ever heard about S3? No! Ever used Google Drive to store your files online? 
     
     <item>
       <title>What&#39;s IaC (Infrastructure as a Code) ???</title>
-      <link>https://sachinchaulagai.com.np/posts/whats-iac/</link>
+      <link>http://localhost:1313/posts/whats-iac/</link>
       <pubDate>Sun, 02 Apr 2023 10:16:10 +0545</pubDate>
       
-      <guid>https://sachinchaulagai.com.np/posts/whats-iac/</guid>
+      <guid>http://localhost:1313/posts/whats-iac/</guid>
       <description>What&amp;rsquo;s IaC (Infrastructure as a Code) ??? Introduction Have you ever setup a virtual machine? You might know about using an ISO file to load in Oracle Virtual Box, going through all the steps on by one to install the ISO on the Virtual Hard-Disk and that&amp;rsquo;s a lot of time being wasted. Well, to save some time you might have backed up you VM (of course Virtual Machine) and used OVA to load your VM.</description>
       
     </item>
