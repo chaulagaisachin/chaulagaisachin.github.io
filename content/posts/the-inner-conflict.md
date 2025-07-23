@@ -1,6 +1,6 @@
 ---
 title: "The Inner Conflict"
-date: 2025-07-24
+date: 2025-07-22
 description: "A personal reflection on imposter syndrome, creative anxiety, and the power of execution."
 image: ""
 author: "Sachin Chaulagai"

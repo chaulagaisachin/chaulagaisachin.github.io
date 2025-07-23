@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automation on Sachin Chaulagai</title>
-    <link>https://sachinchaulagai.com.np/tags/automation/</link>
+    <link>http://localhost:1313/tags/automation/</link>
     <description>Recent content in Automation on Sachin Chaulagai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 Sachin Chaulagai</copyright>
-    <lastBuildDate>Sun, 02 Apr 2023 10:16:10 +0545</lastBuildDate><atom:link href="https://sachinchaulagai.com.np/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 10:16:10 +0545</lastBuildDate><atom:link href="http://localhost:1313/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What&#39;s IaC (Infrastructure as a Code) ???</title>
-      <link>https://sachinchaulagai.com.np/posts/whats-iac/</link>
+      <link>http://localhost:1313/posts/whats-iac/</link>
       <pubDate>Sun, 02 Apr 2023 10:16:10 +0545</pubDate>
       
-      <guid>https://sachinchaulagai.com.np/posts/whats-iac/</guid>
+      <guid>http://localhost:1313/posts/whats-iac/</guid>
       <description>What&amp;rsquo;s IaC (Infrastructure as a Code) ??? Introduction Have you ever setup a virtual machine? You might know about using an ISO file to load in Oracle Virtual Box, going through all the steps on by one to install the ISO on the Virtual Hard-Disk and that&amp;rsquo;s a lot of time being wasted. Well, to save some time you might have backed up you VM (of course Virtual Machine) and used OVA to load your VM.</description>
       
     </item>

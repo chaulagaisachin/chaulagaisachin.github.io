@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cache on Sachin Chaulagai</title>
-    <link>https://sachinchaulagai.com.np/tags/cache/</link>
+    <link>http://localhost:1313/tags/cache/</link>
     <description>Recent content in Cache on Sachin Chaulagai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 Sachin Chaulagai</copyright>
-    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sachinchaulagai.com.np/tags/cache/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cache/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AWS Global Infrastructure</title>
-      <link>https://sachinchaulagai.com.np/posts/aws-global-infrastructure/</link>
+      <link>http://localhost:1313/posts/aws-global-infrastructure/</link>
       <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://sachinchaulagai.com.np/posts/aws-global-infrastructure/</guid>
+      <guid>http://localhost:1313/posts/aws-global-infrastructure/</guid>
       <description>AWS Global Infrastructure # This blog will guide you on the right path to understanding cloud infrastructure. By the end, you’ll have a clear understanding of how AWS Global Infrastructure operates to deliver its services efficiently.
 As discussed in my previous blog on virtualization, we understand that ultimately, it’s all about managing key computing resources like CPU, RAM, networking, and GPU. But how does AWS manage such a vast infrastructure?</description>
       
