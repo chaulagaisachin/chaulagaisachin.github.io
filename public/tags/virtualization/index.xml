@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Virtualization on Sachin Chaulagai</title>
-    <link>http://localhost:1313/tags/virtualization/</link>
+    <link>https://sachinchaulagai.com.np/tags/virtualization/</link>
     <description>Recent content in Virtualization on Sachin Chaulagai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 Sachin Chaulagai</copyright>
-    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/virtualization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sachinchaulagai.com.np/tags/virtualization/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Virtualization &amp; Cloud Computing</title>
-      <link>http://localhost:1313/posts/virtualization-and-cloud-computing/</link>
+      <link>https://sachinchaulagai.com.np/posts/virtualization-and-cloud-computing/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/virtualization-and-cloud-computing/</guid>
+      <guid>https://sachinchaulagai.com.np/posts/virtualization-and-cloud-computing/</guid>
       <description>Virtualization &amp;amp; Cloud Computing # This blog is a part of series I would be writing for beginners to learn and dive deeper into cloud computing, security &amp;amp; DevSecOps. After going through this series, you will be able to comprehend the concept of cloud computing &amp;amp; AWS, also work towards deploying applications in cloud infrastructure. But before understanding about cloud, you do need to have basic knowledge of how operating system works &amp;amp; a bit of networking.</description>
       
     </item>

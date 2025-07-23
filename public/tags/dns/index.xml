@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DNS on Sachin Chaulagai</title>
-    <link>http://localhost:1313/tags/dns/</link>
+    <link>https://sachinchaulagai.com.np/tags/dns/</link>
     <description>Recent content in DNS on Sachin Chaulagai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 Sachin Chaulagai</copyright>
-    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sachinchaulagai.com.np/tags/dns/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How DNS works? Where do we see it, or we don’t!</title>
-      <link>http://localhost:1313/posts/how-dns-works/</link>
+      <link>https://sachinchaulagai.com.np/posts/how-dns-works/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/how-dns-works/</guid>
+      <guid>https://sachinchaulagai.com.np/posts/how-dns-works/</guid>
       <description>How DNS works? Where do we see it, or we don’t! # DNS or we say Domain Name System, has quietly weaves its magic in our daily online lives, like backstage crew making theatrical performance seamless. DNS is the reason you can effortlessly type “google.com” into your browser, instead of memorizing cryptic numbers. It’s like dialing your friend with a saved contact in your phone; you don’t have to remember their number.</description>
       
     </item>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infrastructure on Sachin Chaulagai</title>
-    <link>http://localhost:1313/tags/infrastructure/</link>
+    <link>https://sachinchaulagai.com.np/tags/infrastructure/</link>
     <description>Recent content in Infrastructure on Sachin Chaulagai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 Sachin Chaulagai</copyright>
-    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sachinchaulagai.com.np/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Tech Magic Behind AWS: What Makes It Tick?</title>
-      <link>http://localhost:1313/posts/the-tech-magic-behind-aws/</link>
+      <link>https://sachinchaulagai.com.np/posts/the-tech-magic-behind-aws/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/the-tech-magic-behind-aws/</guid>
+      <guid>https://sachinchaulagai.com.np/posts/the-tech-magic-behind-aws/</guid>
       <description>The Tech Magic Behind AWS: What Makes It Tick? # When it comes to cloud computing, AWS is like the Beyoncé of the tech world — powerful, everywhere, and always a little ahead of the curve. But what’s going on behind the scenes? Sure, you’ve heard about the big stuff — global infrastructure, scalability, the shared security model — but I want to take you deeper into the AWS kitchen.</description>
       
     </item>
     
     <item>
       <title>AWS Global Infrastructure</title>
-      <link>http://localhost:1313/posts/aws-global-infrastructure/</link>
+      <link>https://sachinchaulagai.com.np/posts/aws-global-infrastructure/</link>
       <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/aws-global-infrastructure/</guid>
+      <guid>https://sachinchaulagai.com.np/posts/aws-global-infrastructure/</guid>
       <description>AWS Global Infrastructure # This blog will guide you on the right path to understanding cloud infrastructure. By the end, you’ll have a clear understanding of how AWS Global Infrastructure operates to deliver its services efficiently.
 As discussed in my previous blog on virtualization, we understand that ultimately, it’s all about managing key computing resources like CPU, RAM, networking, and GPU. But how does AWS manage such a vast infrastructure?</description>
       
