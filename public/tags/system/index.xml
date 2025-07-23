@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System on Sachin Chaulagai</title>
+    <link>http://localhost:1313/tags/system/</link>
+    <description>Recent content in System on Sachin Chaulagai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2025 Sachin Chaulagai</copyright>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/system/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Virtualization &amp; Cloud Computing</title>
+      <link>http://localhost:1313/posts/virtualization-and-cloud-computing/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/virtualization-and-cloud-computing/</guid>
+      <description>Virtualization &amp;amp; Cloud Computing # This blog is a part of series I would be writing for beginners to learn and dive deeper into cloud computing, security &amp;amp; DevSecOps. After going through this series, you will be able to comprehend the concept of cloud computing &amp;amp; AWS, also work towards deploying applications in cloud infrastructure. But before understanding about cloud, you do need to have basic knowledge of how operating system works &amp;amp; a bit of networking.</description>
+      
+    </item>
+    
+    <item>
+      <title>How DNS works? Where do we see it, or we don’t!</title>
+      <link>http://localhost:1313/posts/how-dns-works/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/how-dns-works/</guid>
+      <description>How DNS works? Where do we see it, or we don’t! # DNS or we say Domain Name System, has quietly weaves its magic in our daily online lives, like backstage crew making theatrical performance seamless. DNS is the reason you can effortlessly type “google.com” into your browser, instead of memorizing cryptic numbers. It’s like dialing your friend with a saved contact in your phone; you don’t have to remember their number.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

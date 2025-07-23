@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 Sachin Chaulagai</copyright>
-    <lastBuildDate>Fri, 01 Mar 2024 14:33:02 +1100</lastBuildDate><atom:link href="http://localhost:1313/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Virtualization &amp; Cloud Computing</title>
+      <link>http://localhost:1313/posts/virtualization-and-cloud-computing/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/virtualization-and-cloud-computing/</guid>
+      <description>Virtualization &amp;amp; Cloud Computing # This blog is a part of series I would be writing for beginners to learn and dive deeper into cloud computing, security &amp;amp; DevSecOps. After going through this series, you will be able to comprehend the concept of cloud computing &amp;amp; AWS, also work towards deploying applications in cloud infrastructure. But before understanding about cloud, you do need to have basic knowledge of how operating system works &amp;amp; a bit of networking.</description>
+      
+    </item>
     
     <item>
       <title>Beginner friendly Hand-on Project on AWS S3 — Part 1</title>

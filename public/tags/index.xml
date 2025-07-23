@@ -7,14 +7,154 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 Sachin Chaulagai</copyright>
-    <lastBuildDate>Fri, 01 Mar 2024 14:33:02 +1100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anxiety</title>
+      <link>http://localhost:1313/tags/anxiety/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/anxiety/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Creativity</title>
+      <link>http://localhost:1313/tags/creativity/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/creativity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Execution</title>
+      <link>http://localhost:1313/tags/execution/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/execution/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Self-Growth</title>
+      <link>http://localhost:1313/tags/self-growth/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/self-growth/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>AWS</title>
       <link>http://localhost:1313/tags/aws/</link>
-      <pubDate>Fri, 01 Mar 2024 14:33:02 +1100</pubDate>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/aws/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>http://localhost:1313/tags/cloud-computing/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cloud-computing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>http://localhost:1313/tags/infrastructure/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/infrastructure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Interview</title>
+      <link>http://localhost:1313/tags/interview/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/interview/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/tags/security/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Aws Certification</title>
+      <link>http://localhost:1313/tags/aws-certification/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/aws-certification/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cache</title>
+      <link>http://localhost:1313/tags/cache/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cache/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>http://localhost:1313/tags/cloud/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cloud/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/tags/programming/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/programming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>System</title>
+      <link>http://localhost:1313/tags/system/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/system/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Virtualization</title>
+      <link>http://localhost:1313/tags/virtualization/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/virtualization/</guid>
       <description></description>
       
     </item>
@@ -90,16 +230,6 @@
     </item>
     
     <item>
-      <title>Cloud</title>
-      <link>http://localhost:1313/tags/cloud/</link>
-      <pubDate>Fri, 01 Mar 2024 14:33:02 +1100</pubDate>
-      
-      <guid>http://localhost:1313/tags/cloud/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Object Storage</title>
       <link>http://localhost:1313/tags/object-storage/</link>
       <pubDate>Fri, 01 Mar 2024 14:33:02 +1100</pubDate>
@@ -135,6 +265,36 @@
       <pubDate>Fri, 01 Mar 2024 14:33:02 +1100</pubDate>
       
       <guid>http://localhost:1313/tags/storage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Browsers</title>
+      <link>http://localhost:1313/tags/browsers/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/browsers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DNS</title>
+      <link>http://localhost:1313/tags/dns/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/dns/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>System Design Interview</title>
+      <link>http://localhost:1313/tags/system-design-interview/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/system-design-interview/</guid>
       <description></description>
       
     </item>
